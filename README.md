@@ -22,6 +22,7 @@ The assignment is to build a website with several different recipes.
 ### Built With
 
 - HTML
+- CSS
 
 ### Authors
 
