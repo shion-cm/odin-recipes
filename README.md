@@ -19,6 +19,8 @@
 This is the first project from the online web-development course, [**The Odin Project**](https://www.theodinproject.com).
 The assignment is to build a website with several different recipes.
 
+The general color scheme used for this website was based on the [Greek God Color Scheme](https://www.schemecolor.com/greek-god.php) from [SchemeColor](https://www.schemecolor.com)  
+
 ### Built With
 
 - HTML
